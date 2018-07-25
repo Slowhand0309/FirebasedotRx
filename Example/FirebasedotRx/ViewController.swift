@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import FirebaseAuth
+import FirebasedotRx
 
 class ViewController: UIViewController {
 
