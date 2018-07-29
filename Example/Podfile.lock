@@ -151,7 +151,7 @@ SPEC CHECKSUMS:
   FirebaseAuth: 463b8ce33bd5d05f706dcd4615499e3212b4132b
   FirebaseCore: a3c87242451633fff8490183898075ce77d168d2
   FirebaseDatabase: 482bad9c2abd422bb2321194fb8c937e67426a89
-  FirebasedotRx: c8e90ce6851e9f286d774b76dce270f0a49ea62d
+  FirebasedotRx: 6619bde436e11074b33c03ee36d2c0df83c792b8
   FirebaseFirestore: 04074ef839843569387df819d42c834c792ef215
   FirebaseInstanceID: 05d779cbb97bd5bd5c51a38a903fc9cfe1b2454a
   FirebaseStorage: 7ca4bb7b58a25fa647b04f524033fc7cb7eb272b
