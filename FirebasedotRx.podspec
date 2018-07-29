@@ -29,4 +29,5 @@ Pod::Spec.new do |s|
   s.dependency 'Firebase/Auth', '~> 5.0'
   s.dependency 'Firebase/Firestore'
   s.dependency 'Firebase/Storage'
+  s.dependency 'CodableFirebase'
 end
